@@ -27,7 +27,7 @@ $Types = $_GET['type'] ?? '';
 
 <body class="container">
 
-<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login </button>
+<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Logga in </button>
 
 <div id="id01" class="modal">
 
@@ -38,25 +38,25 @@ $Types = $_GET['type'] ?? '';
     </div>
 
     <div class="container">
-     
-      <label for="uname"> <b>Username</b> </label>
-      <input type="text" id="uname" placeholder="Enter Username" name="uname" required>
 
-      <label for="psw"><b>Password</b></label>
-      <input type="password" id="psw" placeholder="Enter Password" name="psw" required>
+<label for="uname"> <b>Användarnamn</b> </label>
+<input type="text" id="uname" placeholder="Ange användarnamn" name="uname" required>
 
-      <button type="submit">Login</button>
-      <label>
-        <input type="checkbox" checked="checked" name="remember"> Remember me
-      </label>
-    </div>
+<label for="psw"><b>Lösenord</b></label>
+<input type="password" id="psw" placeholder="Ange lösenord" name="psw" required>
 
-    <div class="container" style="background-color:#f1f1f1">
-      <button type="button" onclick="document.getElementById('id01').style.display='none'"
-        class="cancelbtn">Cancel</button>
-      <span class="psw"><a href="../dogshop//forgotpass.html">Sign Up!</a></span>
-    </div>
-  </form>
+<button type="submit">Logga in</button>
+<label>
+  <input type="checkbox" checked="checked" name="remember"> Kom ihåg mig
+</label>
+</div>
+
+<div class="container" style="background-color:#f1f1f1">
+<button type="button" onclick="document.getElementById('id01').style.display='none'"
+  class="cancelbtn">Avbryt</button>
+<span class="psw"><a href="../dogshop/forgotpass.html">Registrera dig!</a></span>
+</div>
+</form>
 </div>
 
 

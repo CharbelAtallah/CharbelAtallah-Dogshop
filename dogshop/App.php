@@ -30,8 +30,8 @@ class App
                 <b> $item[name]</b> </b> <br> 
                 <b> Pris:</b> $item[price] Kr</b><br>
                 <b> Produkt beskrivning:</b> $item[description] <br>
-                <b> Antal i lager 2kg:</b> $nmbr <br>
-                <b> Antal i lager 12kg:</b> $nmb <br>
+                <b> Antal i lager 2kg:</b> $nmbr st<br>
+                <b> Antal i lager 12kg:</b> $nmb st<br>
                 </li>
                 ";
         }

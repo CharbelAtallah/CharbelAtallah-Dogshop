@@ -6,9 +6,7 @@ class App
 
     public static function main($type)
     {
-        if ($type) {
-            self::$endpoint = self::$endpoint . "/category/" . $type;
-        }
+
         try {
             $array = self::getData();
             self::viewData($array);
@@ -28,21 +26,19 @@ class App
             $nmb = rand(1,50-$nmbr);
                 $list .= "
                 <li class='list-group-item'>
-                <img height=200px width=185px src='$item[image]' alt='$item[name]'><br> 
-                <b> Ras:</b> $item[name]</b> <br> 
-                <b> Pris:</b> $item[price]:-</b><br>
-                <b> Information:</b> $item[description] <br>
-                <b> Kön:</b> $item[category] <br>
-                <b> Tillängliga tikar:</b> $nmbr <br>
-                <b> Tillängliga Hanar:</b> $nmb <br>
+                <img height=200px width=185px src='$item[image]' alt='$item[name]'><br>
+                <b> $item[name]</b> </b> <br> 
+                <b> Pris:</b> $item[price] Kr</b><br>
+                <b> Produkt beskrivning:</b> $item[description] <br>
+                <b> Antal i lager 2kg:</b> $nmbr <br>
+                <b> Antal i lager 12kg:</b> $nmb <br>
                 </li>
                 ";
         }
 
         $list .= "</ul>";
 
-       echo $list;
-
+        echo $list;
         echo "<hr>";
     }
 

@@ -1,17 +1,4 @@
-.textborder{
-    width: 600px;
-    height: 400px;
-    margin: 20px;
-    color: black;
-    margin-left: 8%;
-    font-size:large;
-}
 
-.btn1{
-    background-color: transparent;
-}
-
-body {font-family: Arial, Helvetica, sans-serif;}
 
 /* Full-width input fields */
 input[type=text], input[type=password] {
@@ -131,3 +118,24 @@ span.psw {
      width: 100%;
   }
 }
+
+/*
+-----Start Contact Info-----
+*/
+.map{
+    text-align: center;
+}
+/*
+-----End Contact Info-----
+*/
+
+/*
+-----Start Contact Form-----
+*/
+.information{
+    text-align: center;
+    padding-top: 10%;
+}
+/*
+-----End Contact Form-----
+*/

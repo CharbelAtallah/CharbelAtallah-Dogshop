@@ -1,72 +1,62 @@
 [
     {
-        "name": "American Bully",
-        "description": "American bully föddes genom att huvudsakligen korsa amerikansk pit bull terrier och amerikansk staffordshire terrier. Rasen kommer från USA men finns nu också i Europa och Asien. Målet var att producera en optimal familjehund. Det här är verkligen en stark och kraftfull hund med mycket självförtroende, men den är också mycket hängiven till sin familj och känd för sin kärlek till barn. American Bully har en underbar livsglädje.",
-        "image": "http://localhost/dogshop/Image/Blu.jpg",
-        "price": "25.000",
-        "category": "Male"
+        "name": "Purenatural Dog Adult Grain Free Lamb",
+        "description": "Purenatural Spannmålsfritt med smak av lamm är ett komplett högkvalitativt hundfoder som passar utmärkt till vuxna hundar. Purenatural spannmålsfritt lamm är berikat med en hög kvalité av benfritt lammkött och endast naturliga råvaror. I fodret används kolhydrater som sötpotatis och potatis som en lättsmält källa i stället för spannmål. Genom att lägga till mynta, C- och järnvitaminer tillgodoses även hundens behov av vitaminer och mineraler. Vilket är viktigt för hundens hälsa. Omgea-3 syrorna tar väl hand om pälsen på hunden och de krispiga bitarna tar hand om tänderna. Den höga kötthalten innebär att fodret är berikat på mycket protein och mindre fett. Fodret fungerar bra att använda på små som stora hundraser. Purenatural Spannmålsfritt med smak av lamm är ett komplett högkvalitativt hundfoder som passar utmärkt till vuxna hundar.",
+        "image": "http://localhost/dogshop/Image/grainfree.jpg",
+        "price": "219,00"
     },
     {
-      "name": "Jakt Labrador",
-      "description": "Jakt Labradorer, eller Labbar, är medelstora till stora hundar med robusta, atletiska konstruktioner. Labbar är kända för sin intelligens, fina karaktär och goda temperament. Även om de är uppfödda för att vara jakthundar, gör dessa egenskaper dem också till utmärkta följeslagare. Förutom sina idrottsförmågor är Labbar utmärkta servicehundar.",
-      "image": "http://localhost/dogshop/Image/bob.jpg",
-      "price": "13.000",
-      "category": "Male"
+      "name": "Purenatural Dog Adult Sensitive Duck",
+      "description": "Purenatural Sensitive Duck är ett komplett helfoder med smak av anka, för den känsliga hunden. Fodret är hypoallergent och passar de flesta raser. Purenatural Sensitive har ett högt innehåll av kött, vilket bidrar till ett foder anpassat för våra köttätande vänner. Den höga kötthalten gör att fodret har ett optimalt innehåll av fett och protein. Fodret är även lättsmält vilket gör det lättare för hunden att tillgodogöra sig näringsämnen. Purenatural innehåller endast naturliga ingredienser och tillgodoser din hunds behov av vitaminer och mineraler. Förutom ett högt näringsinnehåll är Purenatural hundfoder även fritt från artificiella smakämnen och vete. Detta bidrar till att fodret är skonsamt mot hundens matsmältningssystem och motverkar foderallergier som kan uppstå vid överkänslighet mot vete.",
+      "image": "http://localhost/dogshop/Image/sensetive.jpg",
+      "price": "199,00"
     },
     {
-      "name": "Tax",
-      "description": "Taxen är en energisk, älskvärd hundras med en förtjusande personlighet. Kända smeknamn för rasen Tax är doxie, wienerhund, hotdog eller korvhund. Denna ras som är kortvuxen men med en lång kropp ger ett bestående intryck. Taxen kan vara en kärleksfull följeslagare, knähund och till och med en familjehund. Trots sin storlek tenderar taxen att vara ganska skyddande och alert, så rasen kan också utmärka sig som vakthund.",
-      "image": "http://localhost/dogshop/Image/Rio.jpg",
-      "price": "38.000",
-      "category": "Male"
+      "name": "Purenatural Dog Adult Medium Chicken",
+      "description": "Purenatural Adult Medium är ett komplett helfoder med smak av kyckling som passar utmärkt till vuxna hundar av medelstora raser (10-25 kg). Receptet består av råvaror av högsta kvalitet och med en hög kötthalt vilket passar våra köttätande vänner!.",
+      "image": "http://localhost/dogshop/Image/adultmedium.jpg",
+      "price": "189,00"
+    },
+        {
+      "name": "Purenatural Dog Adult Light Turkey",
+      "description": "Purenatural Light är ett komplett helfoder med kalkon, för den vuxna hunden som behöver hjälp att gå ner i vikt och bibehålla vikten. Fodret passar de flesta raser. Purenatural Light har ett högt innehåll av kött, vilket bidrar till ett foder anpassat för våra köttätande vänner. Den höga kötthalten gör att fodret har ett högt innehåll av protein och endast 13% fett. Purenatural innehåller endast naturliga ingredienser och tillgodoser din hunds behov av vitaminer och mineraler. Förutom ett högt näringsinnehåll är Purenatural hundfoder även fritt från artificiella smakämnen och vete. Detta bidrar till att fodret är skonsamt mot hundens matsmältningssystem och motverkar foderallergier som kan uppstå vid överkänslighet mot vete.",
+      "image": "http://localhost/dogshop/Image/turkey.jpg",
+      "price": "199,00"
     },
     {
-      "name": "Rottweiler",
-      "description": "Rottweiler är en robust fungerande ras av stor styrka som härstammar från mastiffen från de romerska legionerna. En mild lekkamrat och beskyddare inom familjecirkeln, Rottie observerar omvärlden med en självförsäkrad avlägsenhet. Tidig träning och socialisering kommer att utnyttja en Rotties territoriella instinkter på ett positivt sätt.",
-      "image": "http://localhost/dogshop/Image/Chester.jpg",
-      "price": "20.000",
-      "category": "Male"
+      "name": "Brit Care Sensitive Venison",
+      "description": "Hjort är en hypoallergenisk källa till protein som är perfekt för hundar med mycket känslig mage och foderintolerans. Spannmålsfritt recept utan riskabla ingredienser minimerar förekomsten av foderallergier. Extra höga halter av omega-3-fettsyror ger ett friskt hjärta, frisk hud och päls av hög kvalitet. Vitamin C som källa till antioxidanter för ökat cellskydd och cellulär immunitet. Hjort; en unik, icke-allergen källa till protein med hög smältbarhet som inte belastar kroppen eller irriterar matspjälkningskanalen. Receptet innehåller ett begränsat antal basingredienser och är helt spannmålsfritt, vilket gör det till en idealisk lösning för hundar med foderintolerans och känslig mage.",
+      "image": "http://localhost/dogshop/Image/britcaresensetive.jpg",
+      "price": "99,90"
     },
     {
-      "name": "Golden Retriever",
-      "description": "Golden retriever är känd för sina vänliga ögon, lojalitet och entusiasm för livet och är en av de mest populära hundraserna. Även om de historiskt uppföds som jakthundar i de skotska högländerna, är Golden retriever också utmärkta familjehundar. Hundarna går vanligtvis bra med barn och är otroligt tillgivna och intelligenta.",
-      "image": "http://localhost/dogshop/Image/Golden.jpg",
-      "price": "10.000",
-      "category": "Female"
+      "name": "Brit Care Grain-Free Adult Salmon & Potato",
+      "description": "Spannmålsfritt recept med lättsmält protein och omättade fetter för optimal muskelutveckling och kondition. Lågt glykemiskt index för optimal blodsockerhalt och minskad risk för övervikt. Extra höga halter av omega-3- fettsyror för ett friskt hjärta, frisk hud och en tjockoch blank päls. Antioxidanter för ökat cellskydd och cellulär immunitet. Ett dagligt intag av naturliga vitaminer och andra ämnen med immunmodulerande egenskaper hjälper din hund att hålla sig redo för den här typen av utmaningar. Lax innehåller höga halter av omega-3-fettsyror (DHA och EPA), som fyller en viktig funktion för hudens och pälsens kvalitet, utvecklingen av sinnen och kognitiva färdigheter samt hjärt- och kärlhälsa. Den främsta fördelen med spannmålsfritt foder är att det ger ett lågt glykemiskt index, vilket minskar risken för övervikt.",
+      "image": "http://localhost/dogshop/Image/britcareadult.jpg",
+      "price": "99,90"
     },
     {
-      "name": "Siberian Husky",
-      "description": "Siberian husky är en graciös, atletisk hund med hög uthållighet och en iver efter att arbeta. Denna vänliga hundras, som har sitt ursprung i Nordostasien som en slädhund, har en livlig och listig personlighet. Även om dessa är högenergiska och ibland intensiva hundar, kan huskies vara tillgiven och skonsam när de får rätt omvårdnad.",
-      "image": "http://localhost/dogshop/Image/Chelsea.jpg",
-      "price": "15.000",
-      "category": "Female"
+      "name": "Brit Care Weight Loss Rabbit & Rice",
+      "description": "Hypoallergeniskt recept med lättsmält protein och minskat råfett som hjälper musklerna att utvecklas och förebygger fettinlagring. Broskskyddande (kondroprotektiva) ämnen med omega-3 för starka och friska leder, ledbrosk, senor och ligament. Optimalt innehåll av lösliga och olösliga fibrer ger bättre matsmältning och mättnadskänsla mellan utfodringarna. L-karnitin för betaoxidation av fettsyror och naturlig omvandling av fett till energi. För att uppnå önskad viktminskning hos hundar gäller samma villkor som för människor; man måste minska intaget av socker och fett och ersätta det med lättsmält protein av hög kvalitet. Fettinnehållet i detta foder är mycket lågt och består dessutom av den bästa formen av fett: omättat. Kostförändring, regelbunden motion och de aktiva substanserna i fodret (L-karnitin) hjälper till att snabbt få igång viktminskningsprocessen.",
+      "image": "http://localhost/dogshop/Image/britcareweightloss.jpg",
+      "price": "269,00"
     },
     {
-      "name": "Bernese Mountain Dog",
-      "description": "Berner Mountain Dog, som har sitt ursprung i Schweiz, är en mild jätte med sin stora ram och slående trefärgad päls. En utmärkt familjehund, Berner Sennenhund passar bra med barn och de flesta andra husdjur och älskar att inkluderas i alla familjeaktiviteter. Rasfans älskar Bernese Mountain Dogs intelligens och hängivenhet för familjen. De är skyddande men inte aggressiva, lojala men oberoende och energiska men inte utmattande.",
-      "image": "http://localhost/dogshop/Image/Meatball.jpg",
-      "price": "23.000",
-      "category": "Female"
+      "name": "Orijen Dog Original",
+      "description": "Våra hundar härstammar från vargen, de är köttätare som är anpassade för att äta en kolhydratbegränsad och varierad kost av färskt kött, därför innehåller Orijen Dog Original hela 85 % kött. Köttet kommer från frigående kyckling och kalkon, vildfångad fisk och fodret innehåller även redeslagda ägg. Större delen av de näringstäta animaliska råvarorna såsom kött, inälvor och brosk tas tillvara, plus att färsk hel fisk och ägg ingår, vilket innebär att hunden får i sig alla näringsämnen den behöver. Fodret är helt fritt från syntetiska tillsatser och konstgjorda konserveringsmedel. Fodret är även fritt från spannmål och den låga halten av kolhydrater kommer från frukt, grönsaker och örter. Med inslag av frystorkad lever från kyckling och kalkon som höjer smaken ytterligare och gör fodret oemotståndligt, även för den mest kräsna hund. Smaklig måltid!",
+      "image": "http://localhost/dogshop/Image/orijenoriginal.jpg",
+      "price": "329,00"
     },
     {
-      "name": "Pitbull",
-      "description": "Dessa hundar är muskulösa och kraftfulla men är naturligt aggressiva endast mot andra djur, inte människor. När hunden är ordentligt lärd, är den en lojal och tillgiven familjehund. Rasen erkänns inte av American Kennel Club (AKC), men den erkänns av Continental Kennel Club och United Kennel Club (UKC).",
-      "image": "http://localhost/dogshop/Image/Tilo.jpeg",
-      "price": "12.000",
-      "category": "Male"
+      "name": "Orijen Dog Regional Red",
+      "description": "Orijen Regional Red är ett populärt torrfoder för hundar av alla raser och livsstadier. Fodret innehåller 85 % animaliska ingredienser, bara naturliga ingredienser och dessutom är det helt spannmålsfritt!.",
+      "image": "http://localhost/dogshop/Image/orijenregionalred.jpg",
+      "price": "389,00"
     },
     {
-      "name": "Akita",
-      "description": "Akita är en stor, ädel, lojal och modig hund av japansk härkomst. I allmänhet är Akita medveten, viljestark och tyst även om han kommer att skälla när det anses nödvändigt. Medan Akita kan vara förvånansvärt söt och tillgiven med familjemedlemmar, passar denna ras bäst för en erfaren ägare och ett hem utan små barn eller andra hundar. Sammantaget är Akita ett utmärkt skydd och en uppskattad följeslagare.",
-      "image": "http://localhost/dogshop/Image/Iko.jpeg",
-      "price": "32.000",
-      "category": "Male"
-    },
-    {
-      "name": "Doberman",
-      "description": "Doberman pinscher är en medelstor, djupbrösthundras med ett snyggt och robust utseende. Rasen är muskulös och atletisk, har stor styrka och uthållighet - så mycket att den historiskt fungerade som Marine Corps officiella hund under andra världskriget. Dobermans (även kallad Dobes eller Dobies) är orädda, lojala och mycket intelligenta. Dessa egenskaper har gjort dem till perfekta polis-, krigs- och vakthundar, men de är också enastående följeslagare.",
-      "image": "http://localhost/dogshop/Image/Dobbie.jpg",
-      "price": "40.000",
-      "category": "Male"
+      "name": "Orijen Dog Puppy",
+      "description": "Ett biologiskt korrekt torrfoder för valpar upp till 1 år av alla raser. Receptet med 85 % animaliska ingredienser är noga framtaget för att möta din växande valps behov.",
+      "image": "http://localhost/dogshop/Image/orijenpuppy.jpg",
+      "price": "329,00"
     }
   ]
